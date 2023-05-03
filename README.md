@@ -5,7 +5,7 @@
 
 
 
-<p align = "center"> Análisis de datos aplicado a la base de datos interna de la empresa Auto Motor S. Se analiza el impacto de la pandemia para evaluar opciones estratégicas como la venta de la empresa, la búsqueda de inversores o la expansión hacia otros países.</p>
+<p align = "center"> Este repositorio alberga un proyecto de análisis de datos enfocado en el servicio automotriz. Utilizando conjuntos de datos internos de la empresa Auto Motor S, se analiza el impacto de la pandemia para evaluar opciones estratégicas como la venta de la empresa, la búsqueda de inversores o la expansión hacia otros países. El objetivo principal es proporcionar información y estadísticas relevantes que ayuden a la toma de decisiones. El repositorio incluye visualizaciones, gráficos y análisis de datos realizados en Python, junto con documentación detallada para facilitar su comprensión y uso..</p>
 
 <br/>
 
